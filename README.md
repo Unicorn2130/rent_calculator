@@ -1,1 +1,1 @@
-# rent_calculator
+# House Rent Prediction using Machine Learning
